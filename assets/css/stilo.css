@@ -1,0 +1,23 @@
+@font-face {
+    font-family: uno;
+    src: url();
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+}
+
+.headerStyle {
+    color: rgb(11, 78, 179);
+    font-family: ;
+}
+
+.pokemon {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
